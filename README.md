@@ -50,7 +50,7 @@ Prism Shift is a unique JavaScript-based strategy puzzle game where players alig
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For major updates, open an issue first to discuss your ideas.
 
 ## Support
-If you enjoy Prism Shift and want to support its development, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/your-username). Your support helps keep this project alive and growing!
+If you enjoy Prism Shift and want to support its development, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/Weshyana). Your support helps keep this project alive and growing!
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
